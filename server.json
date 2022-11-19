@@ -1,0 +1,38 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Academia",
+      "type": "outcome",
+      "category": "Saúde",
+      "price": 150,
+      "createdAt": "2022-11-08T10:00:00.256Z",
+      "updatedAt": "2022-11-08T10:00:00.256Z"
+    },
+    {
+      "id": 2,
+      "description": "Desenvolvimento",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-11-08T19:49:13.256Z",
+      "updatedAt": "2022-11-08T19:49:13.256Z"
+    },
+    {
+      "type": "income",
+      "price": 11000,
+      "category": "Venda",
+      "description": "Site legal",
+      "createdAt": "2022-11-18T22:17:32.732Z",
+      "id": 3
+    },
+    {
+      "type": "income",
+      "price": 15,
+      "category": "Alimentação",
+      "description": "Açaí",
+      "createdAt": "2022-11-18T22:27:48.803Z",
+      "id": 4
+    }
+  ]
+}
